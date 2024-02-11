@@ -1,0 +1,102 @@
+ h1{
+    text-align: center;
+    margin-top: 3%;
+    font-size: xx-large;
+    font-size: 33px;
+    margin-top: 40px;
+    position: relative;
+    right: 89px;
+
+}
+
+.action{
+    border: 2px solid black;
+}
+.first p{
+    position: absolute;
+    /* background: lime; */
+    /* top: 10px;
+    right: 30px; */
+}
+.footer{
+    position: relative;
+    margin-top: 45px;
+    padding-top: 90px;
+    background: #20212B;
+}
+.row{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.footer .footer-contact, .footer .footer-link, .footer .footer-newsletter {
+    position: relative;
+    margin-bottom: 45px;
+    color: #ffffff;
+}
+
+.footer .footer-contact, .footer .footer-link, .footer .footer-newsletter {
+    position: relative;
+    margin-bottom: 45px;
+    color: #ffffff;
+}
+
+.footer .footer-contact, .footer .footer-link, .footer .footer-newsletter {
+    position: relative;
+    margin-bottom: 45px;
+    color: #ffffff;
+}
+.footer .footer-link a {
+    display: block;
+    margin-bottom: 10px;
+    color: #ffffff;
+    transition: .3s;
+}
+
+.footer .copyright {
+    padding: 0 30px;
+}
+.footer .copyright .row {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-top: 1px solid rgba(256, 256, 256, .1);
+}
+
+.footer .copyright p {
+    margin: 0;
+    color: #999999;
+}
+.footer .copyright p a {
+    color: #ffffff;
+}
+
+.footer .copyright .col-md-6:last-child p {
+    text-align: right;
+}
+.footer .copyright p {
+    margin: 0;
+    color: #999999;
+}
+.back-to-top {
+    position: fixed;
+    display: none;
+    background: #FDBE33;
+    width: 44px;
+    height: 44px;
+    text-align: center;
+    line-height: 1;
+    font-size: 22px;
+    right: 15px;
+    bottom: 15px;
+    /* transition: background 0.5s; */
+    z-index: 9;
+}
+
+#Footer123{
+    position: relative;
+    left: 65em;
+    top: -40vh;
+}

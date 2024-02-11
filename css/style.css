@@ -1,0 +1,197 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Pacifico&display=swap');
+
+nav{
+    background: #656263fb;
+    height: 125px;
+}
+/* .about .about-tab .tab-content {
+    padding: 4px 2px 0 0;
+    background: transparent;
+} */
+.mail{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+}
+.mail li{
+    position: relative;
+    left: 10%;
+    padding: 8px;
+    list-style: none; 
+}
+.mail li a{
+    color: rgb(19, 19, 215);
+    text-decoration: none;
+    margin-top: 6px;
+}
+.first{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    margin-top: -38px;
+    cursor: pointer;
+}
+.first li{
+    position: relative;
+    left: 90%;
+    padding: 8px;
+    text-decoration: none;
+    list-style: none; 
+}
+.first li a{
+    color: rgb(0, 0, 0);
+}
+.logo{
+    position: relative;
+    top: -70px;
+}
+.query {
+    position: relative;
+    align-items: center;
+    list-style: none; 
+} 
+.query ul{
+    display: flex;
+    position: relative;
+    left: 25%;
+    margin-top: -137px;
+    gap: 42px;
+    font-size: 22px;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+} 
+.query ul li a{
+    text-decoration: none;
+    color: rgb(19, 19, 215);
+} 
+.btn {
+    display: flex;
+    align-items: center;
+   justify-content: right;
+   position: relative;
+   
+}
+.btn a{
+    position: relative;
+    justify-items: center;
+    left: 40em;
+}
+.btn button{
+    border-radius: 7px; 
+}
+/* .btn:hover{
+    color: rgb(12, 85, 85);  
+} */
+.card mb-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.col-md-8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 20px;
+}
+.last1 h4 ,h1{
+    text-align: center;
+}
+.last1 h1{
+    font-family: 'Agbalumo', Courier, monospace;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.col-lg-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+.team .team-item {
+    position: relative;
+    margin-bottom: 35px;
+}
+.team .team-img {
+    position: relative;
+    overflow: hidden;
+}
+.team .team-text {
+    position: absolute;
+    width: calc(100% - 40px);
+    height: 96px;
+    bottom: 0;
+    left: 20px;
+    padding: 22px 0;
+    text-align: center;
+    background: #ffffff;
+    transition: .3s;
+    overflow: hidden;
+}
+.team .team-social {
+    position: relative;
+    font-size: 0;
+}
+.team .team-social a {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin: 0 3px;
+    padding: 5px 0;
+    text-align: center;
+    font-size: 14px;
+    color: #4a4c70;
+    border: 2px solid #FDBE33;
+    transition: .3s;
+}
+.team .team-item {
+    position: relative;
+    margin-bottom: 35px;
+}
+.team .team-img {
+    position: relative;
+    overflow: hidden;
+}
+.team .team-text {
+    position: absolute;
+    width: calc(100% - 40px);
+    height: 96px;
+    bottom: 0;
+    left: 20px;
+    padding: 22px 0;
+    text-align: center;
+    background: #ffffff;
+    transition: .3s;
+    overflow: hidden;
+}
+.team .team-text h2 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.team .team-text p {
+    margin-bottom: 20px;
+}
+.team .team-social {
+    position: relative;
+    font-size: 0;
+}
+.team .team-social a {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin: 0 3px;
+    padding: 5px 0;
+    text-align: center;
+    font-size: 14px;
+    color: #4a4c70;
+    border: 2px solid #FDBE33;
+    transition: .3s;
+}

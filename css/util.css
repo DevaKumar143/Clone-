@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Diplomata+SC&family=Gloock&family=Lobster&family=Monoton&family=Prompt:wght@100&family=Rubik+Marker+Hatch&family=Tangerine&family=Yellowtail&display=swap');
+
+.content {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 27px;
+    color: #ad4e4e;
+    font-family: 'Agbalumo', Courier, monospace;
+}
+.first1{
+    display: flex;
+    gap: 61px;
+    position: relative;
+    justify-content: center;
+    margin-top: 59px;
+}
+.first2{
+    display: flex;
+    gap: 61px;
+    position: relative;
+    justify-content: center;
+    margin-top: 59px;
+}
+.first3{
+    display: flex;
+    gap: 61px;
+    position: relative;
+    justify-content: center;
+    margin-top: 59px;
+}
+.books{
+    border: 2px solid red;
+    border-radius: 0% 0% 10% 10%;
+}
+.event{
+    border: 2px solid red;
+    border-radius: 0% 0% 10% 10%;
+}
+.work{
+    border: 2px solid red;
+    border-radius: 0% 0% 10% 10%;
+}
+.cloth{
+    border: 2px solid red;
+    border-radius: 0% 0% 10% 10%;
+}
+.tree{
+    border: 2px solid red;
+    border-radius: 0% 0% 10% 10%;
+}
+.women{
+    border: 2px solid red;
+    border-radius: 0% 0% 10% 10%;
+}
+.food{
+    border: 2px solid red;
+    border-radius: 0% 0% 10% 10%;
+}
+.suvidh{
+    border: 2px solid red;
+    border-radius: 0% 0% 10% 10%;
+}
+.animal{
+    border: 2px solid red;
+    border-radius: 0% 0% 10% 10%;
+}
+h3{
+    text-align: center;
+    /* text-decoration: none; */
+}
+.footer{
+    position: relative;
+    margin-top: 45px;
+    padding-top: 90px;
+    background: #20212B;
+}
+.row{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.footer .footer-contact, .footer .footer-link, .footer .footer-newsletter {
+    position: relative;
+    margin-bottom: 45px;
+    color: #ffffff;
+}
+
+.footer .footer-contact, .footer .footer-link, .footer .footer-newsletter {
+    position: relative;
+    margin-bottom: 45px;
+    color: #ffffff;
+}
+
+.footer .footer-contact, .footer .footer-link, .footer .footer-newsletter {
+    position: relative;
+    margin-bottom: 45px;
+    color: #ffffff;
+}
+.footer .footer-link a {
+    display: block;
+    margin-bottom: 10px;
+    color: #ffffff;
+    transition: .3s;
+}
+
+.footer .copyright {
+    padding: 0 30px;
+}
+.footer .copyright .row {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-top: 1px solid rgba(256, 256, 256, .1);
+}
+
+.footer .copyright p {
+    margin: 0;
+    color: #999999;
+}
+.footer .copyright p a {
+    color: #ffffff;
+}
+
+.footer .copyright .col-md-6:last-child p {
+    text-align: right;
+}
+.footer .copyright p {
+    margin: 0;
+    color: #999999;
+}
+.back-to-top {
+    position: fixed;
+    display: none;
+    background: #FDBE33;
+    width: 44px;
+    height: 44px;
+    text-align: center;
+    line-height: 1;
+    font-size: 22px;
+    right: 15px;
+    bottom: 15px;
+    /* transition: background 0.5s; */
+    z-index: 9;
+}
+
+#Footer123{
+    position: relative;
+    left: 65em;
+    top: -40vh;
+}
+.team{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 15px;
+    gap: 80px;
+}
